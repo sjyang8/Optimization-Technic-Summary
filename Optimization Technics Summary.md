@@ -22,7 +22,7 @@
 
 - [TGRS2018-Spatial–Spectral Total Variation Regularized Low-Rank Tensor Decomposition for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/document/8367978)  
 - [TGRS2019-Hyperspectral Restoration via L0 Gradient Regularized Low-Rank Tensor Factorization](https://ieeexplore.ieee.org/abstract/document/8824180) [`CODE`](https://github.com/bearshng/LRTFL0/)
-- [TC2020-Hyperspectral Image Restoration Using Weighted Group Sparsity-Regularized Low-Rank Tensor Decomposition](https://ieeexplore.ieee.org/document/8822607) [CODE](https://chenyong1993.github.io/yongchen.github.io/papers/2020/LRTDGS_Denoising_code.zip)
+- [TC2020-Hyperspectral Image Restoration Using Weighted Group Sparsity-Regularized Low-Rank Tensor Decomposition](https://ieeexplore.ieee.org/document/8822607) [`CODE`](https://chenyong1993.github.io/yongchen.github.io/papers/2020/LRTDGS_Denoising_code.zip)
 
 ## 4 tensor_dictionary
 
@@ -34,11 +34,11 @@
 
 ## 6 tensor_low_fibered_rank
 
-- [2017-A non-convex tensor rank approximation for tensor completion](https://zhaoxile.github.io/paper/2017/A%20non-convex%20tensor%20rank%20approximation%20for%20tensor%20completion.pdf)  [CODE](https://github.com/zhaoxile/logTucker)
+- [2017-A non-convex tensor rank approximation for tensor completion](https://zhaoxile.github.io/paper/2017/A%20non-convex%20tensor%20rank%20approximation%20for%20tensor%20completion.pdf)  [`CODE`](https://github.com/zhaoxile/logTucker)
 
 - [IGARSS2019-HYPERSPECTRAL IMAGE DENOISING VIA CONVEX LOW-FIBERED-RANK REGULARIZATION](https://yubangzheng.github.io/papers/IGARSS2019-low-fibered-rank.pdf) [`CODE`](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) [Slide](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)  
-- [TGRS2020-Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [CODE](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
-- [TGRS2020-Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [CODE](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+- [TGRS2020-Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization](https://yubangzheng.github.io/papers/TGRS-yyl.pdf) [`CODE`](https://github.com/zhaoxile/TGRS_FRCTR_PnP)
+- [TGRS2020-Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization](https://yubangzheng.github.io/papers/TGRS-low-fibered-rank.pdf) [`CODE`](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
 
 ## 7 tensor_low_rank_double_factor_regularized
 
@@ -50,8 +50,8 @@
 
 ## 9 tensor_non_local_similarity
 
-- [CVPR2014-Weighted Nuclear Norm Minimization with Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2014/papers/Gu_Weighted_Nuclear_Norm_2014_CVPR_paper.pdf) [CODE](https://github.com/csjunxu/WNNM_CVPR2014)
-- [CVPR2019-Non-local Meets Global-An Integrated Paradigm for Hyperspectral Denoising](https://ieeexplore.ieee.org/document/8954159/)  [CODE](https://github.com/quanmingyao/NGMeet)
+- [CVPR2014-Weighted Nuclear Norm Minimization with Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2014/papers/Gu_Weighted_Nuclear_Norm_2014_CVPR_paper.pdf) [`CODE`](https://github.com/csjunxu/WNNM_CVPR2014)
+- [CVPR2019-Non-local Meets Global-An Integrated Paradigm for Hyperspectral Denoising](https://ieeexplore.ieee.org/document/8954159/)  [`CODE`](https://github.com/quanmingyao/NGMeet)
 
 ## 10 tensor_nonconvex_local_low_rank
 
@@ -140,7 +140,7 @@
 - [2017-Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration](https://owuchangyuo.github.io/files/WLRTR.pdf) [`CODE`](https://owuchangyuo.github.io/files/WLRTR.zip)
 -  [2021-Hyperspectral Image Restoration via Multi-mode and Double-weighted Tensor Nuclear Norm Minimization](https://arxiv.org/abs/2101.07681v1) 
 - [SP2017-Structure tensor total variation-regularized weighted nuclear norm minimization for hyperspectral image mixed denoising](https://pdf.sciencedirectassets.com/271605/1-s2.0-S0165168416X00102/1-s2.0-S0165168416301827/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBoaCXVzLWVhc3QtMSJHMEUCIFKd2WGPLIhOG7VP1J%2B%2B3k8pWWvqwm1ZlWzoRCdIcVrlAiEAqA9jyPIhB1cg3tYw0ZuRPEUlkJgGZC%2FLHMJx1YG%2BjAUqgwQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDNdFHdC9HCMnZnZZtSrXA%2BLEdLupYK1m5ngYyOahLrdy6KSEMJArmn9WwmpPgltnZ8Be%2Fczl9An5Sqtn9MU0%2BWC1DpDClkKVmpn9bqBxndxLqU0zBPRZdMvlUWNKPozBziIdzjoP%2BF4A97SyBA%2F2tPtQfuGQEmGYJf8d9yfpzrZs3tQTVWa8l7UZpjFoUXuMH0wvQ4vpbq43qKt9WW8U2qBoaI3Mos2bRV8hZTHpAN3LmyZTzXI6bUhxBXg1ASw%2FIANnpYd%2FwcuE499v1pqi3RikzscU%2BqXOC21AOXfY%2B8m3s3cGeyjkhelosi5GTPPt68GbymoXtiD44a5v8ll1wx%2F7bXFx0mbeJ6Z2AOgBHJH3Z%2BIY0bS3VzR2n4ClfGYw9M3xqQTRoWP4VmVm8MkbOdxJ3HfPBnF%2FIexPSpbqd4QBefCcwHdfoWoj1EX86cGBBjc%2BwozpK29K1npIh34cBAFjs9ZEZVBZ1KlfTotUMmYhvbTXiq%2F7TH4vEPWtOHbFRBn5xCPTQMl8T5cJJktPlZFirSEtGdYBhjyhYKQ%2BDjG4swO%2Bz%2BgEKvDfbsmK3%2FfPkBIuyOvXzc8Rn0bnuXUDY4YlQvnlfQTid6p9fFGZFvfHKm0Ox%2BiNyQPcL%2B%2B%2B0m%2B8SiFoCtivBjDz%2B7SLBjqlAUKCXibumQ6BBzeb8cRz%2FltWYYr3MCYoGffyuhkXNBhxa6lAgVAw8T8IsPfbPUKDnnjTfkVarFcneUaisd8VxWe0iSKXsbypngwDBM3p81zyIVX8%2B2%2BUgM0%2BqIAvZsBKqQcmHGrKOXCjn7poGD7DKw29pyF23QlLsKIH0XRJys1m44DSqhJeEWCsFbVE748OB2RfK%2BHCP%2BC9FvanuupwscQvCG0jGg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20211018T104527Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYRDNMPMM7%2F20211018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=068df4af9cae023ce7001a8a27816a1e87e20f24a5d21bfe2e58716ead533814&hash=78d2c227b63c774b470f24562e4358a63e33b107ad33863bb76a80677a66b6d0&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0165168416301827&tid=spdf-47e1258f-9668-48d6-9fc1-831aaaf2896b&sid=90a0e51768157748be18ef422ff554e7188dgxrqa&type=client) 
-- [TCYB2020-Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration](https://zhaoxile.github.io/paper/2020/Weighted%20Low-rank%20Tensor%20Recovery%20for%20Hyperspectral%20Image%20Restoration.pdf) [CODE](https://owuchangyuo.github.io/publications/WLRTR)
+- [TCYB2020-Weighted Low-rank Tensor Recovery for Hyperspectral Image Restoration](https://zhaoxile.github.io/paper/2020/Weighted%20Low-rank%20Tensor%20Recovery%20for%20Hyperspectral%20Image%20Restoration.pdf) [`CODE`](https://owuchangyuo.github.io/publications/WLRTR)
 - [TGRS2020-Nonlocal Tensor-Based Sparse Hyperspectral Unmixing](https://liangjiandeng.github.io/papers/2020/nlts_2020tgrs.pdf)
 - [Weighted tensor nuclear norm minimization for color image denoising](https://ieeexplore.ieee.org/document/7532926)
 
@@ -161,7 +161,7 @@
 
 ## 1 2D_plug_and_play
 
-- [A Plug-and-Play Priors Framework for Hyperspectral Unmixing](https://arxiv.org/abs/2012.13074) [CODE](https://github.com/XiuhengWang/Plug_and_Play_HSI_unmixing)
+- [A Plug-and-Play Priors Framework for Hyperspectral Unmixing](https://arxiv.org/abs/2012.13074) [`CODE`](https://github.com/XiuhengWang/Plug_and_Play_HSI_unmixing)
 
 ## 2 tensor_weighted_l2,1norm
 
