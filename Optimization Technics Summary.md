@@ -183,5 +183,5 @@
 
 ## 6 weighted_nuclear_norm
 
-- [CVPR2014-Weighted Nuclear Norm Minimization with Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2014/papers/Gu_Weighted_Nuclear_Norm_2014_CVPR_paper.pdf) [CODE](https://github.com/csjunxu/WNNM_CVPR2014)
+- [CVPR2014-Weighted Nuclear Norm Minimization with Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2014/papers/Gu_Weighted_Nuclear_Norm_2014_CVPR_paper.pdf) [`CODE`](https://github.com/csjunxu/WNNM_CVPR2014)
 
