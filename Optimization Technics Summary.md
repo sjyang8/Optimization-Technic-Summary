@@ -42,7 +42,7 @@
 
 ## 7 tensor_low_rank_double_factor_regularized
 
-- [TGRS2020-Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) `[CODE]`(https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
+- [TGRS2020-Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image](https://yubangzheng.github.io/papers/TGRS-LRTFDFR.pdf) [`CODE`](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
 ## 8 tensor_network_decomposition
 
