@@ -56,7 +56,7 @@
 ## 10 tensor_nonconvex_local_low_rank
 
 - [2016-SUPER-RESOLUTION RECONSTRUCTION OF HYPERSPECTRAL IMAGES VIA LOW RANK TENSOR MODELING AND TOTAL VARIATION REGULARIZATION](https://ieeexplore.ieee.org/document/7730816) 
-- [2017-A non-convex tensor rank approximation for tensor completion](https://zhaoxile.github.io/paper/2017/A%20non-convex%20tensor%20rank%20approximation%20for%20tensor%20completion.pdf) [CODE](https://github.com/zhaoxile/logTucker)
+- [2017-A non-convex tensor rank approximation for tensor completion](https://zhaoxile.github.io/paper/2017/A%20non-convex%20tensor%20rank%20approximation%20for%20tensor%20completion.pdf) [`CODE`](https://github.com/zhaoxile/logTucker)
 - [2020-Hyperspectral Image Denoising via Global Spatial-Spectral Total Variation Regularized Nonconvex Local Low-Rank Tensor Approximation](https://www.sciencedirect.com/science/article/pii/S0165168420303492)
 
 - [2021-Weighted_Low-Rank_Tensor_Representation_for_Multi-View Subspace Clustering](https://www.frontiersin.org/articles/10.3389/fphy.2020.618224/full)
