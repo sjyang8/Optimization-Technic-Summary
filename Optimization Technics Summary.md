@@ -180,16 +180,14 @@
 ## 5 TV_norm
 
 - [TGRS2016-Total-Variation-Regularized Low-Rank Matrix Factorization for Hyperspectral Image Restoration](http://www.lmars.whu.edu.cn/prof_web/zhanghongyan/papers/Total-Variation-Regularized%20Low-rank%20Matrix%20Factorization%20for%20Hyperspectral%20Image%20Restoration.pdf) [`CODE`](https://prowdiy.github.io/weihe.github.io/code/LLRGTV.rar)
-- 
-  ## 6 |C \bigodot B|_1
-  [TNNLS2022-Learning Low-Rank Graph With Enhanced Supervision](https://ieeexplore.ieee.org/document/9454509)
-  [Semi-Supervised Non-Negative Matrix Factorization With Dissimilarity and Similarity Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8820170)
-
-  ## 7 |C \bigodot B|_F^2
-  [TNNLS2021-Constrained Clustering With Dissimilarity Propagation-Guided Graph-Laplacian PCA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9178787)[`CODE`](https://github.com/jyh-learning/DP-GLPCA)
   
-
 ## 6 weighted_nuclear_norm
 
 - [CVPR2014-Weighted Nuclear Norm Minimization with Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2014/papers/Gu_Weighted_Nuclear_Norm_2014_CVPR_paper.pdf) [`CODE`](https://github.com/csjunxu/WNNM_CVPR2014)
-
+- 
+## 7 |C \bigodot B|_1
+  [TNNLS2022-Learning Low-Rank Graph With Enhanced Supervision](https://ieeexplore.ieee.org/document/9454509)
+  [Semi-Supervised Non-Negative Matrix Factorization With Dissimilarity and Similarity Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8820170)
+  
+## 8 |C \bigodot B|_F^2
+  [TNNLS2021-Constrained Clustering With Dissimilarity Propagation-Guided Graph-Laplacian PCA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9178787)[`CODE`](https://github.com/jyh-learning/DP-GLPCA)
