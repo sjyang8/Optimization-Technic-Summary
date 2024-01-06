@@ -186,8 +186,9 @@
 - [CVPR2014-Weighted Nuclear Norm Minimization with Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2014/papers/Gu_Weighted_Nuclear_Norm_2014_CVPR_paper.pdf) [`CODE`](https://github.com/csjunxu/WNNM_CVPR2014)
 - 
 ## 7 |C \bigodot B|_1
-  [TNNLS2022-Learning Low-Rank Graph With Enhanced Supervision](https://ieeexplore.ieee.org/document/9454509)
-  [Semi-Supervised Non-Negative Matrix Factorization With Dissimilarity and Similarity Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8820170)
+  -[TNNLS2022-Learning Low-Rank Graph With Enhanced Supervision](https://ieeexplore.ieee.org/document/9454509)
+  
+  -[Semi-Supervised Non-Negative Matrix Factorization With Dissimilarity and Similarity Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8820170)
   
 ## 8 |C \bigodot B|_F^2
-  [TNNLS2021-Constrained Clustering With Dissimilarity Propagation-Guided Graph-Laplacian PCA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9178787)[`CODE`](https://github.com/jyh-learning/DP-GLPCA)
+  -[TNNLS2021-Constrained Clustering With Dissimilarity Propagation-Guided Graph-Laplacian PCA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9178787)[`CODE`](https://github.com/jyh-learning/DP-GLPCA)
