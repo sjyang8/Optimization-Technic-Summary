@@ -192,3 +192,4 @@
   
 ## 8 |C \bigodot B|_F^2
 - [TNNLS2021-Constrained Clustering With Dissimilarity Propagation-Guided Graph-Laplacian PCA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9178787)[`CODE`](https://github.com/jyh-learning/DP-GLPCA)
+- [Semisupervised Adaptive Symmetric Non-Negative Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9013063) Hint 负的分子/正的分母
